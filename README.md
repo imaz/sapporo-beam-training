@@ -1,3 +1,8 @@
-# サッポロビーム用
+# サッポロビーム:high_brightness:
 
-<http://elixir-lang.org/> を見てElixirを学びます。
+Elixir と戯れます。
+
+参考リンク
+----
+- <http://elixir-lang.org/>
+- [ヽ（´・肉・｀）ノログ](http://niku.name/articles/)
