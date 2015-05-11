@@ -6,6 +6,7 @@ Elixir と戯れます。
 ----
 commenter:imaz で検索できた!
 
+- <https://github.com/sapporo-beam/sapporo-beam/issues/52>
 - <https://github.com/sapporo-beam/sapporo-beam/issues/50>
 - <https://github.com/sapporo-beam/sapporo-beam/issues/45>
 - <https://github.com/sapporo-beam/sapporo-beam/issues/41>
