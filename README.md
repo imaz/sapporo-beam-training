@@ -21,4 +21,6 @@ commenter:imaz で検索できた!
 参考リンク
 ----
 - <http://elixir-lang.org/>
+- <http://www.phoenixframework.org/>
 - [ヽ（´・肉・｀）ノログ](http://niku.name/articles/)
+- [だるい＠あぷれんてぃす](http://daruiapprentice.blogspot.jp/)
